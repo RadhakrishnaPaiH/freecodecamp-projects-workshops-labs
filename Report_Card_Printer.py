@@ -2,15 +2,15 @@
 
 # Student name stored as a string
 name = 'Alice'
-print(name, type(name))
+print(name, type(name)) #Display name and name type'str'
 
 # Boolean value to check student status
 is_student = True
-print(is_student, type(is_student))
+print(is_student, type(is_student)) #Display Boolean value-'True' and type'bool'
 
 # Integer value representing age
 age = 20
-print(age, type(age))
+print(age, type(age)) #Display age and type'int'
 
 # Float value representing score/marks
 score = 80.5
